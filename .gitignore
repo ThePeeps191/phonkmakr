@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Sessions & output
+sessions/
+output/
+
+# Sample library (downloaded at runtime)
+phonkmakr/samples/downloaded/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Music files (generated output)
+# *.mp3
+# *.wav
