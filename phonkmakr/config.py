@@ -23,8 +23,9 @@ DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 DEEPSEEK_MODEL = "deepseek-v4-flash"
 
 # Agent
-MAX_TOOL_ROUNDS = 40
+MAX_TOOL_ROUNDS = 55
 MAX_ITERATIONS = 3  # how many times agent can re-analyze and fix
+MODEL_TEMPERATURE = 0.8
 
 # Audio Defaults
 DEFAULT_BPM = 130
