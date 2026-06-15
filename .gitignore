@@ -18,7 +18,7 @@ sessions/
 output/
 
 # Sample library (downloaded at runtime)
-phonkmakr/samples/downloaded/
+phonkmakr/samples/samples
 
 # IDE
 .vscode/
