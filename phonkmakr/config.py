@@ -13,7 +13,7 @@ SESSIONS_DIR.mkdir(exist_ok = True)
 OUTPUT_DIR = PROJECT_ROOT / "output"
 OUTPUT_DIR.mkdir(exist_ok = True)
 
-SAMPLES_DIR = PROJECT_ROOT / "phonkmakr" / "samples" / "samples"
+SAMPLES_DIR = PROJECT_ROOT / "samples"
 SAMPLES_DIR.mkdir(exist_ok = True)
 SAMPLE_SOURCES_JSON = PROJECT_ROOT / "phonkmakr" / "samples" / "sources.json"
 
