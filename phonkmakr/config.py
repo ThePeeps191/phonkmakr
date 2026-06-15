@@ -27,9 +27,9 @@ MAX_TOOL_ROUNDS = 40
 MAX_ITERATIONS = 3  # how many times agent can re-analyze and fix
 
 # Audio Defaults
-DEFAULT_BPM = 140
+DEFAULT_BPM = 130
 DEFAULT_KEY = "Cm"
-DEFAULT_BARS = 16
+DEFAULT_BARS = 32
 SAMPLE_RATE = 44100
 BIT_DEPTH = 16
 DEFAULT_FORMAT = "mp3"
